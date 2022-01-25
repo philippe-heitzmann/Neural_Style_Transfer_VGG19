@@ -6,6 +6,6 @@ Repository containing Python code implementing neural style transfer following t
 
 ### Usage:
 1. Load Neural_Style_Transfer_Base_Implementation.ipynb notebook and follow step-by-step instructions and documentation
-2. Explore image dataset contained under /images folder 
+2. Explore stylized output images including under /images/stylized_output folder 
 
-See blog post https://philippeheitzmann.com/2021/12/extracting-credit-card-number-and-name-information-using-opencv-and-google-pytesseract/ for additional implementation details.
+See blog post https://philippeheitzmann.com/2022/01/implementing-vgg19-and-custom-built-style-transfer-algorithms-to-artificially-stylize-images/ for additional implementation details.
