@@ -1,7 +1,7 @@
 ### Project overview:
 Repository containing Python code implementing neural style transfer following two distinct approaches of (i) building our algorithm from scratch using Tensorflow’s linear algebra functions and following Gatys et al.’s original approach to neural style transfer using convolutional layers of the VGG-19 network and (ii) using the Tensorflow’s model hub’s pre-trained neural artistic stylization network proposed by Ghiasi et al. in order to compare the differing outputs of both implementations.
 
-### Output:
+### Sample Output:
 ![vgg_transform_bow_bridge_trim2](https://user-images.githubusercontent.com/8759492/150892629-d417f539-01af-4945-a18c-4cb35f399a08.gif)
 
 ### Usage:
